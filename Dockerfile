@@ -1,3 +1,3 @@
-FROM ubuntu:16.04
+FROM tsutomu7/alpine-python
 
-CMD ["bash"]
+CMD ["sh"]
