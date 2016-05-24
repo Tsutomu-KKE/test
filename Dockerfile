@@ -1,3 +1,3 @@
-FROM tsutomu7/ubuntu-essential:latest
+FROM ubuntu:16.04
 
 CMD ["bash"]
